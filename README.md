@@ -14,6 +14,49 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3> 👨🏻•💻 About Me </h3>
+
+
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+
+- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+
+- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+
+- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+
+
+
+<h3>🛠 Tech Stack</h3>
+
+
+
+- 💻 &nbsp; Python | Java | C++ | C | MySQL
+
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+
+<!--
+
+- 🛢 &nbsp; MySQL | MongoDB
+
+- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
+
+- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+
+-->
+
+
+
+<h3>🛠 To Learn</h3>
+
+- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
+
+<hr>
+
+
+
+<br/><br/>
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
 
