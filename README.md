@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <h3>🛠 Tech Stack</h3>
 
-
+<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
 - 💻 &nbsp; Python | Java | C++ | C | MySQL
 
@@ -57,6 +57,4 @@ Here are some ideas to get you started:
 
 
 <br/><br/>
-<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
-
 
