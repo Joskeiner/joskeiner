@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🤓 &nbsp; Learning about Golang , Systems Design , docker ,server administration in Linux , c sharp and data base .
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- 🦾 &nbsp; Pursuing Web Development and play soccer ⚽️ as hobbies .
 
 
 
