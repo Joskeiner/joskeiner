@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
-- 💻 &nbsp; node.js | C# | SQL serve 
+- 💻 &nbsp; node.js | C# | SQL serve | Go
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
 
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Golang | Rust 🦀
+- 🔧 &nbsp; AWS | Docker🐳  | Rust 🦀
 
 <hr>
 
